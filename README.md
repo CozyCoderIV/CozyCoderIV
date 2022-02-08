@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CozyCoderIV
 - 👀 I’m interested in ... Game Development / Web Design / BackEnd Programming 
-- 🌱 I’m currently learning ... Java, JavaScript, and Python.
+- 🌱 I’m currently learning ... Java, JavaScript, and React.
 - 💞️ I’m looking to collaborate on ... a variety of projects (no preference) that will enhance my skills as a solid coder
 - 📫 How to reach me ... by email (ojacks7@lsu.edu) or (o.jacksoniv@gmail.com)
 

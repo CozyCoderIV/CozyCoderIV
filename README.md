@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Game Development / Web Design / BackEnd Programming 
 - 🌱 I’m currently learning ... Java, JavaScript, and React.js.
 - 💞️ I’m looking to collaborate on ... a variety of projects (no preference) that will enhance my skills as a solid coder
-- 📫 How to reach me ... by email (ojacks7@lsu.edu) or (o.jacksoniv@gmail.com)
+- 📫 How to reach me ... by email (ojacks7@lsu.edu) or (spiritedhokage@gmail.com)
 
 <!---
 CozyCoderIV/CozyCoderIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

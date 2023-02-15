@@ -1,4 +1,4 @@
-- Welcome, I’m @CozyCoderIV aka Otis Jackson 
+- Welcome, I’m @CozyCoderIV aka Otis Jackson IV
 - I’m interested in ... / Web Devlopment / Front-End Development / UI & UX Design 
 - My software language skill set consists of Java, Jest, JavaScript, HTML, CSS, React.js, MySQL, & Material UI.
 - I’m always open to collaborate with other devs on a presentable set of Front-End & CRUD projects.

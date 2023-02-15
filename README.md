@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @CozyCoderIV
-- 👀 I’m interested in ... Game Development / Web Design / BackEnd Programming 
-- 🌱 I’m currently learning ... Java, JavaScript, and React.js.
-- 💞️ I’m looking to collaborate on ... a variety of projects (no preference) that will enhance my skills as a solid coder
-- 📫 How to reach me ... by email (ojacks7@lsu.edu) or (spiritedhokage@gmail.com)
+- Welcome, I’m @CozyCoderIV aka Otis Jackson 
+- I’m interested in ... / Web Devlopment / Front-End Development / UI & UX Design 
+- My software language skill set consists of Java, Jest, JavaScript, HTML, CSS, React.js, MySQL, & Material UI.
+- I’m always open to collaborate with other devs on a presentable set of Front-End & CRUD projects.
+
+____________________________________________________________________________
+- LinkedIn : (https://www.linkedin.com/in/otis-jackson4/)
+- Instagram : (https://www.instagram.com/o.j.daprince_iv/)
+- Personal Website : (https://www.orjacksoniv.com/)
+- school email : (ojacks7@lsu.edu)
+- personal email : (spiritedhokage@gmail.com)
 
 <!---
 CozyCoderIV/CozyCoderIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,8 +7,8 @@ ____________________________________________________________________________
 - LinkedIn : (https://www.linkedin.com/in/otis-jackson4/)
 - Instagram : (https://www.instagram.com/o.j.daprince_iv/)
 - Personal Website : (https://www.orjacksoniv.com/)
-- school email : (ojacks7@lsu.edu)
-- personal email : (spiritedhokage@gmail.com)
+- School Email : (ojacks7@lsu.edu)
+- Personal Email : (spiritedhokage@gmail.com)
 
 <!---
 CozyCoderIV/CozyCoderIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
